@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="food">Restaurants</string>
+    <string name="cinema">Cinemas</string>
+    <string name="religious">Religious Places</string>
+    <string name="tour">Tourist Favourites</string>
+    <string name="stays">Accommodation</string>
+    <string name="category">Categories</string>
+    <string name="location">GERMANY</string>
+    <string name="a1">Goebels Sophien Hotel</string>
+    <string name="a2">City Hotel</string>
+    <string name="a3">Hotel Haus Hainstein Eisenach</string>
+    <string name="a4">Romantik Hotel auf der Wartburg</string>
+    <string name="a5">Hotel Residenz Bad Frankenhausen</string>
+    <string name="a6">Hotel Glockenhof Eisenach</string>
+    <string name="c1">Cineplex</string>
+    <string name="c2">Cinéma Le Trèfle</string>
+    <string name="c3">Cinema Paris</string>
+    <string name="c5">Deutsch Theater</string>
+    <string name="c6">Kino</string>
+    <string name="rp1">Buddhapadipa Temple</string>
+    <string name="rp2">Stadtkirche Bayreuth</string>
+    <string name="rp3">Heilige Kapelle (Gnadenkapelle)</string>
+    <string name="rp4">Market Church of Our Dear Lady</string>
+    <string name="rp5">Islamic Centre Hamburg</string>
+    <string name="rp6">West Mosque</string>
+    <string name="r1">Trattoria la Grappa</string>
+    <string name="r2">La Favola</string>
+    <string name="r3">Asia-Restaurant Bambus</string>
+    <string name="r4">K3 Restaurant Bad Langensalza</string>
+    <string name="r5">Zucker and Zimt Cafe-Restaurant</string>
+    <string name="r6">Vassilios Lois Griechisches Testaurant Delphi</string>
+    <string name="tf1">Alexander Place</string>
+    <string name="tf2">Shopping Cité</string>
+    <string name="tf3">Brandenburg Gate</string>
+    <string name="tf4">Toy Museum</string>
+    <string name="tf5">Hofbraeuhaus am Platzl</string>
+    <string name="tf6">Town Hall Munich</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

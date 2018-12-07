@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:id="@+id/container"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical">
+<FrameLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="1"
+    android:background="@color/c1">
+    <TextView
+        android:id="@+id/restaurants"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="?android:selectableItemBackground"
+        android:gravity="center_vertical"
+        android:text="@string/food"
+        android:textAlignment="center"
+        android:textColor="@color/t"
+        android:textSize="@dimen/s" />
+</FrameLayout>
+<FrameLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="1"
+    android:background="@color/c2">
+    <TextView
+        android:id="@+id/cinemas"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="?android:selectableItemBackground"
+        android:gravity="center_vertical"
+        android:text="@string/cinema"
+        android:textAlignment="center"
+        android:textColor="@color/t"
+        android:textSize="@dimen/s" />
+</FrameLayout>
+<FrameLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="1"
+    android:background="@color/c3">
+    <TextView
+        android:id="@+id/rp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="?android:selectableItemBackground"
+        android:gravity="center_vertical"
+        android:text="@string/religious"
+        android:textAlignment="center"
+        android:textColor="@color/t"
+        android:textSize="@dimen/s" />
+</FrameLayout>
+<FrameLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="1"
+    android:background="@color/c4">
+    <TextView
+        android:id="@+id/touristsfav"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="?android:selectableItemBackground"
+        android:gravity="center_vertical"
+        android:text="@string/tour"
+        android:textAlignment="center"
+        android:textColor="@color/t"
+        android:textSize="@dimen/s" />
+</FrameLayout>
+<FrameLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="1"
+    android:background="@color/c5">
+    <TextView
+        android:id="@+id/acc"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="?android:selectableItemBackground"
+        android:gravity="center_vertical"
+        android:text="@string/stays"
+        android:textAlignment="center"
+        android:textColor="@color/t"
+        android:textSize="@dimen/s" />
+</FrameLayout>
+</LinearLayout>
